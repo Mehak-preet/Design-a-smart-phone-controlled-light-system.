@@ -1,0 +1,16 @@
+Aim:     Design a smart phone controlled light system.
+Apparatus: Arduino Uno,bluetooth,breadboard,resistance,led.
+Procedure:
+step1:
+take the Arduino UNO with the Breadboard .
+Step2:
+take 1 Bluetooth and led and join the vcc and ground of bluetooth with arduino.
+step3:
+then we connect bluetooth with phone .
+step4:
+give the response to circuit through your phone either ON or OFF.
+step5:
+if you press ON ,led will glow and vice versa.
+Conclusion:
+The circuit works and connect with outside bluetooth.
+ 
